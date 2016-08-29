@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Meiryo, sans-serif;
+}
+
+body{
+    background-image: url(haikei.png);
+    background-size: cover;
+}
+
+.container{
+    width: 1000px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.875);
+    background-repeat: no-repeat;
+}
+
+nav{
+    overflow: hidden;
+    background: #ff4c4c;
+    margin-bottom: 5px;
+}
+
+nav li{
+    float: left;
+    list-style-type: none;
+}
+
+.y{
+    overflow: hidden;
+    background: #800080;
+    margin-bottom: 5px;
+}
+
+.z{
+    overflow: hidden;
+    background: #0000CD;
+    margin-bottom: 5px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+    display: block;
+    transition: 0.5s;
+}
+
+nav a:hover{
+    background: #0000FF;
+    color: #fff;
+}
+
+nav .b{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+    display: block;
+    transition: 0.5s;
+}
+
+nav .b:hover{
+    background: #32CD32;
+    color: #fff;
+}
+
+nav .c{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+    display: block;
+    transition: 0.5s;
+}
+
+nav .c:hover{
+    background: #0000FF;
+    color: #fff;
+}
+
+nav .d{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+    display: block;
+    transition: 0.5s;
+}
+
+nav .d:hover{
+    background: #800080;
+    color: #fff;
+}
+
+nav .e{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+    display: block;
+    transition: 0.5s;
+}
+
+nav .e:hover{
+    background: #00008B;
+    color: #fff;
+}
+
+nav .f{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+    display: block;
+    transition: 0.5s;
+}
+
+nav .f:hover{
+    background: #808000;
+    color: #fff;
+}
+
+.top-image{
+   
+    float: left;
+    
+}
+
+.top-image2{
+    position: relative;
+    float:right;
+}
+
+.title{
+    float: inherit;
+    width: 510px;
+    margin-bottom: 5px;
+}
+
+.title2{
+    float: inherit;
+    width: 570px;
+    margin-bottom: 5px;
+}
+
+.lit-btn{
+    background: #f9f9f9;
+    color: #ff4c4c;
+    font-size: 12px;
+    border: 1px solid #ff4c4c;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 8px;
+    float: left;
+}
+
+.description{
+    font-size: 18px;
+}
+
+<div class="fb-like" data-href="file:///Users/jotarosugiyama/Desktop/MyWebSite/kaguyataro1.html" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
